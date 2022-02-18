@@ -1,0 +1,13 @@
+.borderElement {
+  background-color: #EEDDFF;
+  border: 6px solid #7922CC;
+  border-radius: 25px;
+  height: 400px
+}
+.borderwidth { width: 30% }
+.margintop { margin: 40px }
+.borderradius {
+  border-radius: 5px;}
+.fleft { margin-left: 40px }
+.ftop { margin-top: 30px}
+.heigtt { height: 100px}
